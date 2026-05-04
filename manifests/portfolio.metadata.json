@@ -1,4 +1,309 @@
 {
-  "images": {},
+  "images": {
+    "portraits/graduation/001-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 1,
+      "category": "graduation"
+    },
+    "portraits/graduation/002-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 2,
+      "category": "graduation"
+    },
+    "portraits/graduation/003-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 3,
+      "category": "graduation"
+    },
+    "portraits/graduation/004-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 4,
+      "category": "graduation"
+    },
+    "portraits/graduation/005-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 5,
+      "category": "graduation"
+    },
+    "portraits/graduation/006-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 6,
+      "category": "graduation"
+    },
+    "portraits/graduation/007-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 7,
+      "category": "graduation"
+    },
+    "portraits/graduation/008-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 8,
+      "category": "graduation"
+    },
+    "portraits/graduation/009-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 9,
+      "category": "graduation"
+    },
+    "portraits/graduation/010-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 10,
+      "category": "graduation"
+    },
+    "portraits/graduation/011-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 11,
+      "category": "graduation"
+    },
+    "portraits/graduation/012-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 12,
+      "category": "graduation"
+    },
+    "portraits/graduation/013-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 13,
+      "category": "graduation"
+    },
+    "portraits/graduation/014-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 14,
+      "category": "graduation"
+    },
+    "portraits/graduation/015-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 15,
+      "category": "graduation"
+    },
+    "portraits/graduation/016-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 16,
+      "category": "graduation"
+    },
+    "portraits/graduation/017-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 17,
+      "category": "graduation"
+    },
+    "portraits/graduation/018-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 18,
+      "category": "graduation"
+    },
+    "portraits/graduation/019-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 19,
+      "category": "graduation"
+    },
+    "portraits/graduation/020-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 20,
+      "category": "graduation"
+    },
+    "portraits/graduation/021-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 21,
+      "category": "graduation"
+    },
+    "portraits/graduation/022-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 22,
+      "category": "graduation"
+    },
+    "portraits/graduation/023-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 23,
+      "category": "graduation"
+    },
+    "portraits/graduation/024-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 24,
+      "category": "graduation"
+    },
+    "portraits/graduation/025-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 25,
+      "category": "graduation"
+    },
+    "portraits/graduation/026-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 26,
+      "category": "graduation"
+    },
+    "portraits/graduation/027-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 27,
+      "category": "graduation"
+    },
+    "portraits/graduation/028-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 28,
+      "category": "graduation"
+    },
+    "portraits/graduation/029-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 29,
+      "category": "graduation"
+    },
+    "portraits/graduation/030-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 30,
+      "category": "graduation"
+    },
+    "portraits/graduation/031-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 31,
+      "category": "graduation"
+    },
+    "portraits/graduation/032-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 32,
+      "category": "graduation"
+    },
+    "portraits/graduation/033-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 33,
+      "category": "graduation"
+    },
+    "portraits/graduation/034-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 34,
+      "category": "graduation"
+    },
+    "portraits/graduation/035-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 35,
+      "category": "graduation"
+    },
+    "portraits/graduation/036-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 36,
+      "category": "graduation"
+    },
+    "portraits/graduation/037-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 37,
+      "category": "graduation"
+    },
+    "portraits/graduation/038-graduation.jpg": {
+      "alt": "Graduation portrait, Graduation",
+      "tags": [
+        "graduation"
+      ],
+      "order": 38,
+      "category": "graduation"
+    }
+  },
   "collections": {}
 }

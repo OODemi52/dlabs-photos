@@ -139,9 +139,9 @@ export function withStableGeneratedAt(
   next: Pick<PortfolioManifest, "images" | "collections">,
   previousManifest?: PortfolioManifest
 ) {
-  const nextContent = JSON.stringify(next);
+  const nextContent = stableStringify(next);
   const previousContent = previousManifest
-    ? JSON.stringify({
+    ? stableStringify({
         images: previousManifest.images,
         collections: previousManifest.collections
       })
@@ -222,4 +222,19 @@ function sectionSortValue(section: PortfolioImage["section"]) {
 
 function removeUndefined<T extends Record<string, unknown>>(value: T) {
   return Object.fromEntries(Object.entries(value).filter(([, item]) => item !== undefined)) as T;
+}
+
+function stableStringify(value: unknown): string {
+  if (Array.isArray(value)) {
+    return `[${value.map((item) => stableStringify(item)).join(",")}]`;
+  }
+
+  if (value && typeof value === "object") {
+    return `{${Object.entries(value)
+      .sort(([a], [b]) => a.localeCompare(b))
+      .map(([key, item]) => `${JSON.stringify(key)}:${stableStringify(item)}`)
+      .join(",")}}`;
+  }
+
+  return JSON.stringify(value);
 }
